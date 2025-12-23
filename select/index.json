@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりだけの世界",
+  "base_artist": "魔界ノりりむ",
+  "createdAt": "2025-12-23T05:29:42.257171Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりだけの世界",
+      "artist": "魔界ノりりむ",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりだけの世界_魔界ノりりむ.txt"
+    }
+  ]
+}
